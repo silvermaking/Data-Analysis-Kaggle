@@ -3,9 +3,9 @@
 
 
 
-| Date       |                         Competition                          | contents | Link                                                |
-| ---------- | :----------------------------------------------------------: | :------- | --------------------------------------------------- |
-| 2021.10.09 | [Walmart Recruiting - Store Sales Forecasting](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting) | baseline | [notebook](./notebook/walmart-week1-baseline.ipynb) |
-|            |                                                              |          |                                                     |
-|            |                                                              |          |                                                     |
+| Date       |                         Competition                          | contents | Link                                                        |
+| ---------- | :----------------------------------------------------------: | :------- | ----------------------------------------------------------- |
+| 2021.10.09 | [Walmart Recruiting - Store Sales Forecasting](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting) | baseline | [notebook](./notebook/walmart/walmart-week1-baseline.ipynb) |
+|            |                                                              |          |                                                             |
+|            |                                                              |          |                                                             |
 
