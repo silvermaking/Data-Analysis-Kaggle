@@ -6,4 +6,5 @@
 |                         Competition                          | contents | Link                                                        |
 | :----------------------------------------------------------: | :------- | ----------------------------------------------------------- |
 | [Walmart Recruiting - Store Sales Forecasting](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting) | baseline | [notebook](./notebook/walmart/walmart-week1-baseline.ipynb)|
-| [Give Me Some Credit](https://www.kaggle.com/c/GiveMeSomeCredit) | baseline, EDA | [notebook](./notebook/walmart/walmart-week1-baseline.ipynb)|
+| [Give Me Some Credit](https://www.kaggle.com/c/GiveMeSomeCredit) | baseline, EDA | [notebook](./notebook/givemesomecredit/credit-week2-eda.ipynb) |
+
